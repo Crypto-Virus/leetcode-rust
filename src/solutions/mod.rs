@@ -4,3 +4,4 @@ mod s0003_longest_substring_without_repeating_characters;
 mod s0005_longest_palindromic_substring;
 mod s0007_reverse_integer;
 mod s0009_palindrome_number;
+mod s0013_roman_to_integer;
