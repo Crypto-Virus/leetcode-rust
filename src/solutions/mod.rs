@@ -10,3 +10,4 @@ mod s0021_merge_two_sorted_lists;
 mod s0043_multiply_strings;
 mod s0148_sort_list;
 mod s0328_odd_even_linked_list;
+mod s2131_longest_palindrome_by_concatenating_two_letter_words;
