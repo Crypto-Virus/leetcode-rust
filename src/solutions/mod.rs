@@ -11,6 +11,7 @@ mod s0021_merge_two_sorted_lists;
 mod s0033_search_in_rotated_sorted_array;
 mod s0043_multiply_strings;
 mod s0074_search_a_2d_matrix;
+mod s0100_same_tree;
 mod s0108_convert_sorted_array_to_binary_search_tree;
 mod s0148_sort_list;
 mod s0173_binary_search_tree_iterator;
