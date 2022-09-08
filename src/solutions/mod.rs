@@ -17,6 +17,7 @@ mod s0100_same_tree;
 mod s0108_convert_sorted_array_to_binary_search_tree;
 mod s0148_sort_list;
 mod s0173_binary_search_tree_iterator;
+mod s0205_isomorphic_strings;
 mod s0230_kth_smallest_element_in_a_bst;
 mod s0328_odd_even_linked_list;
 mod s0543_diameter_of_binary_tree;
