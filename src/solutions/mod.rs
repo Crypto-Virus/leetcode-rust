@@ -24,6 +24,7 @@ mod s0328_odd_even_linked_list;
 mod s0392_is_subsequence;
 mod s0543_diameter_of_binary_tree;
 mod s0621_task_scheduler;
+mod s0704_binary_search;
 mod s0724_find_pivot_index;
 mod s0844_backspace_string_compare;
 mod s0994_rotten_oranges;
