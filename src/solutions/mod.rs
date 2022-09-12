@@ -30,6 +30,7 @@ mod s0621_task_scheduler;
 mod s0704_binary_search;
 mod s0724_find_pivot_index;
 mod s0844_backspace_string_compare;
+mod s0876_middle_of_linked_list;
 mod s0994_rotten_oranges;
 mod s1480_running_sum_of_1d_array;
 mod s2131_longest_palindrome_by_concatenating_two_letter_words;
