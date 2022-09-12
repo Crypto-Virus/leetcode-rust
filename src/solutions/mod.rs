@@ -5,6 +5,7 @@ mod s0005_longest_palindromic_substring;
 mod s0007_reverse_integer;
 mod s0009_palindrome_number;
 mod s0011_container_with_most_water;
+mod s0012_integer_to_roman;
 mod s0013_roman_to_integer;
 mod s0014_longest_common_prefix;
 mod s0019_remove_nth_node_from_end_of_list;
