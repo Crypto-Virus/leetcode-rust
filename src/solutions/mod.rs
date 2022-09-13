@@ -26,6 +26,7 @@ mod s0205_isomorphic_strings;
 mod s0206_reverse_linked_list;
 mod s0230_kth_smallest_element_in_a_bst;
 mod s0278_first_bad_version;
+mod s0283_move_zeros;
 mod s0328_odd_even_linked_list;
 mod s0392_is_subsequence;
 mod s0409_longest_palindrome;
