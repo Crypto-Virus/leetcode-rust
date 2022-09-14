@@ -25,6 +25,7 @@ mod s0173_binary_search_tree_iterator;
 mod s0189_rotate_array;
 mod s0205_isomorphic_strings;
 mod s0206_reverse_linked_list;
+mod s0217_contains_duplicate;
 mod s0230_kth_smallest_element_in_a_bst;
 mod s0278_first_bad_version;
 mod s0283_move_zeros;
