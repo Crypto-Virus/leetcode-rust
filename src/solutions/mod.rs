@@ -24,6 +24,7 @@ mod s0148_sort_list;
 mod s0167_two_sum_2_input_array_is_sorted;
 mod s0173_binary_search_tree_iterator;
 mod s0189_rotate_array;
+mod s0203_remove_linked_list_elements;
 mod s0205_isomorphic_strings;
 mod s0206_reverse_linked_list;
 mod s0217_contains_duplicate;
