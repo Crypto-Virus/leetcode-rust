@@ -35,6 +35,7 @@ mod s0328_odd_even_linked_list;
 mod s0350_intersection_of_two_arrays;
 mod s0392_is_subsequence;
 mod s0409_longest_palindrome;
+mod s0509_fibonacci_number;
 mod s0543_diameter_of_binary_tree;
 mod s0621_task_scheduler;
 mod s0704_binary_search;
