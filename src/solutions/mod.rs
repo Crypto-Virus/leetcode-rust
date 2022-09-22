@@ -39,6 +39,7 @@ mod s0409_longest_palindrome;
 mod s0509_fibonacci_number;
 mod s0543_diameter_of_binary_tree;
 mod s0621_task_scheduler;
+mod s0617_merge_two_binary_trees;
 mod s0692_top_k_frequent_words;
 mod s0704_binary_search;
 mod s0724_find_pivot_index;
