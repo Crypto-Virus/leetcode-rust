@@ -16,6 +16,7 @@ mod s0035_search_insert_position;
 mod s0043_multiply_strings;
 mod s0053_maximum_subarray;
 mod s0074_search_a_2d_matrix;
+mod s0094_binary_tree_inorder_traversal;
 mod s0100_same_tree;
 mod s0102_binary_tree_level_order_traversal;
 mod s0108_convert_sorted_array_to_binary_search_tree;
