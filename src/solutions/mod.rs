@@ -41,6 +41,7 @@ mod s0509_fibonacci_number;
 mod s0543_diameter_of_binary_tree;
 mod s0621_task_scheduler;
 mod s0617_merge_two_binary_trees;
+mod s0653_two_sum_4_input_is_a_bst;
 mod s0692_top_k_frequent_words;
 mod s0701_insert_into_a_binary_search_tree;
 mod s0704_binary_search;
