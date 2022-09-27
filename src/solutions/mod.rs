@@ -11,6 +11,7 @@ mod s0014_longest_common_prefix;
 mod s0019_remove_nth_node_from_end_of_list;
 mod s0020_valid_parentheses;
 mod s0021_merge_two_sorted_lists;
+mod s0024_swap_nodes_in_pairs;
 mod s0023_merge_k_sorted_lists;
 mod s0033_search_in_rotated_sorted_array;
 mod s0035_search_insert_position;
