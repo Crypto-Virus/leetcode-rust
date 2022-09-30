@@ -16,6 +16,7 @@ mod s0028_find_the_index_of_the_first_occurrence_in_a_string;
 mod s0023_merge_k_sorted_lists;
 mod s0033_search_in_rotated_sorted_array;
 mod s0035_search_insert_position;
+mod s0038_count_and_say;
 mod s0043_multiply_strings;
 mod s0053_maximum_subarray;
 mod s0069_sqrt_x;
