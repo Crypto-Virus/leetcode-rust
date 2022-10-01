@@ -26,6 +26,7 @@ mod s0100_same_tree;
 mod s0102_binary_tree_level_order_traversal;
 mod s0108_convert_sorted_array_to_binary_search_tree;
 mod s0121_best_time_to_buy_and_sell_stock;
+mod s0125_valid_palindrome;
 mod s0148_sort_list;
 mod s0167_two_sum_2_input_array_is_sorted;
 mod s0173_binary_search_tree_iterator;
