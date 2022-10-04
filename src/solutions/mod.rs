@@ -58,4 +58,5 @@ mod s0994_rotten_oranges;
 mod s0977_squares_of_a_sorted_array;
 mod s1480_running_sum_of_1d_array;
 mod s1155_number_of_dice_rolls_with_target_sum;
+mod s1578_minimum_time_to_make_rope_colorful;
 mod s2131_longest_palindrome_by_concatenating_two_letter_words;
