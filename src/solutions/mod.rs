@@ -46,6 +46,7 @@ mod s0409_longest_palindrome;
 mod s0509_fibonacci_number;
 mod s0543_diameter_of_binary_tree;
 mod s0621_task_scheduler;
+mod s623_add_one_row_to_tree;
 mod s0617_merge_two_binary_trees;
 mod s0653_two_sum_4_input_is_a_bst;
 mod s0692_top_k_frequent_words;
