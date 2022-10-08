@@ -55,6 +55,7 @@ mod s0692_top_k_frequent_words;
 mod s0701_insert_into_a_binary_search_tree;
 mod s0704_binary_search;
 mod s0724_find_pivot_index;
+mod s0732_my_calendar_3;
 mod s0844_backspace_string_compare;
 mod s0876_middle_of_linked_list;
 mod s0994_rotten_oranges;
