@@ -21,6 +21,7 @@ mod s0043_multiply_strings;
 mod s0046_permutations;
 mod s0048_rotate_image;
 mod s0053_maximum_subarray;
+mod s0062_unique_paths;
 mod s0069_sqrt_x;
 mod s0074_search_a_2d_matrix;
 mod s0094_binary_tree_inorder_traversal;
