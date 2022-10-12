@@ -59,6 +59,7 @@ mod s0724_find_pivot_index;
 mod s0732_my_calendar_3;
 mod s0844_backspace_string_compare;
 mod s0876_middle_of_linked_list;
+mod s0976_largest_perimeter_triangle;
 mod s0994_rotten_oranges;
 mod s0977_squares_of_a_sorted_array;
 mod s1480_running_sum_of_1d_array;
